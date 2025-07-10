@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    display: flex;
+    height: 80px;
+    width: 100vw;
+    border: 1px solid ;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(4, 29, 46);
+}
+nav a{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    gap: 27px;
+    font-weight: 450;
+    font-style: initial;
+}
+.edit{
+    justify-content: center;
+    text-align: center;
+}
